@@ -11,6 +11,7 @@ function App(){
       <Welcome name="web" />
       <Welcome name="star" />
       <Welcome name="light" />
+      <Welcome name="light2" />
     </div>
   );
 }
